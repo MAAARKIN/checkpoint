@@ -1,0 +1,1 @@
+insert into users(id, login, senha) values(users_seq.nextval, 'admin', 'admin');
